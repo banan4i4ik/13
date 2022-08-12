@@ -11,7 +11,7 @@ html {
   }
  .willi{
   display: flex;
- 
+     justify-content: center;
  }
  .img1{
   width: 300px;
@@ -25,6 +25,7 @@ html {
  }
  .williamson{
   display: flex;
+  justify-content: center;
  }
  .img4{
   width: 408px;
