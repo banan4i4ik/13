@@ -1,0 +1,40 @@
+
+html {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+ .willi{
+  display: flex;
+ 
+ }
+ .img1{
+  width: 300px;
+  box-shadow: rgba(113, 29, 29, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+ }
+ .img2{
+  width: 153px;
+ }
+ .img3{
+  width: 273px;
+ }
+ .williamson{
+  display: flex;
+ }
+ .img4{
+  width: 408px;
+ }
+ .img5{
+  width: 306px;
+ }
+ .img6{
+  width: 272px;
+ }
+a{
+padding: 50px;
+}
